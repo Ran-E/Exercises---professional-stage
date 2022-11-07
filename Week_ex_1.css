@@ -1,0 +1,29 @@
+#myHeader {
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 400%;
+  text-align: center;
+}
+
+.subHeading {
+  display: inline;
+  list-style: none;
+  justify-content: center;
+  margin: 40px;
+}
+#menu-outer {
+  color: blue;
+}
+
+.table {
+  display: table;
+  margin: 0 auto;
+}
+
+ul#horizontal-list {
+  list-style: none;
+  padding-top: 20px;
+}
+ul#horizontal-list li {
+  display: inline;
+}
