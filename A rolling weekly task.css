@@ -25,3 +25,21 @@ nav a {
   padding: 15px 32px;
   border-radius: 50px 50px;
 }
+
+th,
+td {
+  border: 1px solid;
+  text-align: center;
+}
+
+.ES {
+  background-color: brown;
+}
+
+.JH {
+  background-color: cyan;
+}
+
+.HS {
+  background-color: chocolate;
+}
