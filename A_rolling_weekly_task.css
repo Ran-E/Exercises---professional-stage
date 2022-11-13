@@ -30,16 +30,24 @@ th,
 td {
   border: 1px solid;
   text-align: center;
+  border: 3px solid black;
+  border-color: #96d4d4;
 }
 
 .ES {
   background-color: brown;
+  border: 3px solid black;
 }
 
 .JH {
   background-color: cyan;
+  border: 3px solid black;
 }
 
 .HS {
   background-color: chocolate;
+  border: 3px solid black;
+}
+table {
+  border: 3px solid black;
 }
